@@ -1,9 +1,9 @@
 {
   "domain": "crestron_controller",
-  "name": "Home Assistant Crestron 4 API Integraton",
-  "documentation": "https://github.com/jeffreyyoung55/Home-Assistant-Crestron-4-API-Integration/README.md",
+  "name": "Home Assistant Crestron Home OS4 API Integraton",
+  "documentation": "https://github.com/jasonehines/Home-Assistant-Crestron-4-API-Integration/README.md",
   "dependencies": [],
-  "codeowners": ["@jeffreyyoung55"],
+  "codeowners": ["@jasoneines"],
   "requirements": [],
   "version": "0.1.0"
 }
